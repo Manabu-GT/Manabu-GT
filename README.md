@@ -15,8 +15,8 @@ I am currently maintaining and improving:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manabu-GT&show_icons=true&theme=radical" alt="Manabu-GT's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manabu-GT&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Manabu-GT's Github Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <!--
