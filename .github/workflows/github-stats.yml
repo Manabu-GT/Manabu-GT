@@ -20,21 +20,16 @@ jobs:
       - name: Generate GitHub Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          type: stats
-          username: Manabu-GT
-          show_icons: true
-          include_all_commits: true
-          theme: radical
+          card: stats
+          options: username=Manabu-GT&show_icons=true&include_all_commits=true&theme=radical
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          type: top-langs
-          username: Manabu-GT
-          layout: compact
-          theme: radical
+          card: top-langs
+          options: username=Manabu-GT&layout=compact&theme=radical
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
