@@ -10,7 +10,10 @@ I love building UI/UX libraries that make developers' lives easier.
 I am currently maintaining and improving:
 
 * 🐛 **[DebugOverlay-Android](https://github.com/Manabu-GT/DebugOverlay-Android)**
-  <br>A zero-configuration runtime diagnostics tool fully written in Kotlin + Jetpack Compose. It surfaces real-time performance metrics (CPU, Heap, PSS, FPS) and now includes **Logcat** and **Network** logging panels without requiring dangerous permissions.
+  <br>A zero-configuration runtime diagnostics overlay for Android fully written in Kotlin + Jetpack Compose. It surfaces real-time performance metrics (CPU, memory, FPS), **Logcat** and **Network** logging panels, and **one-tap bug reports** — all without requiring dangerous permissions.
+
+* 📍 **[android-mock-location-mcp](https://github.com/Manabu-GT/android-mock-location-mcp)**
+  <br>An MCP server + Android agent for controlling device GPS location during development and testing.
 
 ### 📊 GitHub Stats
 
