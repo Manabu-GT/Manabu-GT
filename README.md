@@ -17,8 +17,8 @@ I am currently maintaining and improving:
 
 ### 🌐 Other Projects
 
-* ⚔️ **[SamuraiTyping](https://INSERT_URL_HERE)**
-  <br>Free touch typing for kids ages 7+. No ads, no accounts, no tracking. A fun Japanese warrior-themed app with 9 levels — from Apprentice to Legend. Built by a parent.
+* ⚔️ **[SamuraiTyping](https://samuraityping.com/)**
+  <br>Free touch-typing for kids ages 7+. No ads, no accounts, no tracking. A fun Japanese warrior-themed app with 9 levels — from Apprentice to Legend. Built by a parent.
 
 ### 📊 GitHub Stats
 
