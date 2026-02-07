@@ -15,6 +15,11 @@ I am currently maintaining and improving:
 * 📍 **[android-mock-location-mcp](https://github.com/Manabu-GT/android-mock-location-mcp)**
   <br>An MCP server + Android agent for controlling device GPS location during development and testing.
 
+### 🌐 Other Projects
+
+* ⚔️ **[SamuraiTyping](https://samuraityping.com/)**
+  <br>Free touch-typing for kids ages 7+. No ads, no accounts, no tracking. A fun Japanese warrior-themed app with 9 levels — from Apprentice to Legend. Built by a parent.
+
 ### 📊 GitHub Stats
 
 <p align="left">
