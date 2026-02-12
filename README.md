@@ -5,7 +5,7 @@
 I am a software engineer based in **Colorado, USA**, currently specializing in Android development.
 I love building UI/UX libraries that make developers' lives easier.
 
-### 🔭 Current Focus & Active Open Source Projects
+### 🔭 Active Open Source Projects
 
 I am currently maintaining and improving:
 
@@ -14,6 +14,9 @@ I am currently maintaining and improving:
 
 * 📍 **[android-mock-location-mcp](https://github.com/Manabu-GT/android-mock-location-mcp)**
   <br>An MCP server + Android agent for controlling device GPS location during development and testing.
+
+* 🌦️ **[Aether](https://github.com/Manabu-GT/Aether)**
+  <br>A Kotlin library that delivers GPU-accelerated weather visual effects (rain, snow, clouds, lightning) for Android Jetpack Compose using AGSL shaders.
 
 ### 🌐 Other Projects
 
