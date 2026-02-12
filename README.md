@@ -16,7 +16,7 @@ I am currently maintaining and improving:
   <br>An MCP server + Android agent for controlling device GPS location during development and testing.
 
 * 🌦️ **[Aether](https://github.com/Manabu-GT/Aether)**
-  <br>A Kotlin library that delivers GPU-accelerated weather visual effects (rain, snow, clouds, lightning) for Android Jetpack Compose using AGSL shaders.
+  <br>A Kotlin library that delivers GPU-accelerated weather visual effects (rain, snow, clouds, lightning) for Android Jetpack Compose using AGSL shaders. Built mostly for my learning.
 
 ### 🌐 Other Projects
 
