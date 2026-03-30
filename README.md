@@ -12,6 +12,9 @@ I am currently maintaining and improving:
 * 🐛 **[DebugOverlay-Android](https://github.com/Manabu-GT/DebugOverlay-Android)**
   <br>A zero-configuration runtime diagnostics overlay for Android fully written in Kotlin + Jetpack Compose. It surfaces real-time performance metrics (CPU, memory, FPS), **Logcat** and **Network** logging panels, and **one-tap bug reports** — all without requiring dangerous permissions.
 
+* 📍 **[android-mock-location-mcp](https://github.com/Manabu-GT/android-mock-location-mcp)**
+  <br>MCP server for controlling Android emulator GPS location during development/testing.
+
 * 🌦️ **[Aether](https://github.com/Manabu-GT/Aether)**
   <br>A Kotlin library that delivers GPU-accelerated weather visual effects (rain, snow, clouds, lightning) for Android Jetpack Compose using AGSL shaders. Built mostly for my learning.
 
