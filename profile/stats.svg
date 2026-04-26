@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Manabu S.'s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 5372, Total Commits  : 964, Total PRs: 254, Total Issues: 9, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 5369, Total Commits  : 964, Total PRs: 254, Total Issues: 9, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.5426433899764;
+        stroke-dashoffset: 62.543071082048236;
       }
     }
   
