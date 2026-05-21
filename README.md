@@ -15,9 +15,6 @@ I am currently maintaining and improving:
 * 📍 **[android-mock-location-mcp](https://github.com/Manabu-GT/android-mock-location-mcp)**
   <br>MCP server for controlling Android emulator GPS location during development/testing.
 
-* 🌦️ **[Aether](https://github.com/Manabu-GT/Aether)**
-  <br>A Kotlin library that delivers GPU-accelerated weather visual effects (rain, snow, clouds, lightning) for Android Jetpack Compose using AGSL shaders. Built mostly for my learning.
-
 ### 🌐 Other Projects
 
 * ⚔️ **[SamuraiTyping](https://samuraityping.com/)**
