@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Mobile & Web Engineer | Former Project Manager
 
-I am a software engineer based in **Colorado, USA**, currently specializing in Android development.
+I am a software engineer based in **Sunnyvale (CA), USA**, currently specializing in Android development.
 I love building UI/UX libraries that make developers' lives easier.
 
 ### 🔭 Active Open Source Projects
