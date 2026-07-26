@@ -1,6 +1,6 @@
 # Hi there, I'm Manabu! 👋
 
-### 👨‍💻 Mobile & Web Engineer | Former Project Manager
+### 👨‍💻 Mobile & Web Engineer
 
 I am a software engineer based in **Sunnyvale (CA), USA**, currently specializing in Android development.
 I love building UI/UX libraries that make developers' lives easier.
