@@ -15,6 +15,11 @@ I am currently maintaining and improving:
 * 📍 **[android-mock-location-mcp](https://github.com/Manabu-GT/android-mock-location-mcp)**
   <br>MCP server for controlling Android emulator GPS location during development/testing.
 
+### 🚧 Currently Prototyping Locally
+
+- 🗺️ **[Chizu](https://github.com/Manabu-GT/Chizu)** *(early prototype)*  
+A **Kotlin Multiplatform** mapping library for Compose with a provider-agnostic core — starting with **Google Maps** and **MapLibre** support on Android, with iOS planned.
+
 ### 🌐 Other Projects
 
 * ⚔️ **[SamuraiTyping](https://samuraityping.com/)**
